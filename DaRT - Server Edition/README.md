@@ -10,7 +10,7 @@ This fork is in active development.
 ### Player Kill Announcement
 - Setting added to enable/disable announcement (working)
 - Setting added for DayZServer_x64.ADM location (working)
-- StreamReader optimized and Threaded (in progress - needs testing)
+- StreamReader optimized and Threaded (working)
 - Strip Garbage from String (working)
 
 ### ORIGINAL README FROM DomiStyle/DaRT
