@@ -1,6 +1,9 @@
 # DaRT - Server Edition with Player Login/Logout Announcement and Player Kill Announcement
 
-This fork is in active development.
+Feel free to fork and modify for your own needs. This repo will not be actively developed futher at this time, as of DayZ SA 0.63.148873.
+Current Release is considered stable.
+
+WARNING: THIS IS LIKELY TO BREAK IF LOG FILE SYNTAX CHANGES AFTER 0.63.148873.
 
 ### Player Login/Logout Announcement
 - Setting added to enable/disable announcement (working)
